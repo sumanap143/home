@@ -82,7 +82,7 @@
     animation: changetext 5s infinite linear;
 }
 @keyframes changetext {
-    0%{content: "Self-driven";}
-    50%{content: "Self-driven, passionate programmer."}
+    0%{content: "plant maniac";}
+    50%{content: "plant maniac and social worker."}
     
 }
